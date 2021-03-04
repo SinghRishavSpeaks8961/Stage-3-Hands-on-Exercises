@@ -1,0 +1,6 @@
+E:\Source\MagicFilesLib\MagicFilesLib\bin\Debug\MagicFilesLib.dll
+E:\Source\MagicFilesLib\MagicFilesLib\bin\Debug\MagicFilesLib.pdb
+E:\Source\MagicFilesLib\MagicFilesLib\obj\Debug\MagicFilesLib.csprojAssemblyReference.cache
+E:\Source\MagicFilesLib\MagicFilesLib\obj\Debug\MagicFilesLib.csproj.CoreCompileInputs.cache
+E:\Source\MagicFilesLib\MagicFilesLib\obj\Debug\MagicFilesLib.dll
+E:\Source\MagicFilesLib\MagicFilesLib\obj\Debug\MagicFilesLib.pdb
