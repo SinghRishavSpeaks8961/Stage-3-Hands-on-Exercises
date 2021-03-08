@@ -48,7 +48,7 @@ namespace CalcLibraryTestProject
         [Test]
         [TestCase(2, 1, 2)]
         [TestCase(1, 2, 0.5)]
-        [TestCase(10, 5, 2)]
+        [TestCase(10, 0)]
         public void Division_WhenCalled_ShouldReturnTheQuotientOfTheArguments(double a, double b, double expected)
         {
             try
